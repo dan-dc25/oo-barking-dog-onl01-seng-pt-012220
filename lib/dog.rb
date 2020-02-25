@@ -9,4 +9,7 @@ class Dog
     @outputs_name
   end
 
+  def bark
+  end
+
 end
